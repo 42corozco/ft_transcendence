@@ -23,3 +23,6 @@ $ To run the development environment run:
    # COOKIES_SECRET=1bc5825c04b9496081645f5670f28dce
    docker-compose up --build
 ```
+
+
+![?????](./pong.gif)
